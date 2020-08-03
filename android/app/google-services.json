@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "991690256719",
+    "firebase_url": "https://firestore-testing-bda5d.firebaseio.com",
+    "project_id": "firestore-testing-bda5d",
+    "storage_bucket": "firestore-testing-bda5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991690256719:android:df5ecfeacf98476a45d53a",
+        "android_client_info": {
+          "package_name": "com.example.travels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991690256719-3ol7k9r69aadljeb4n5svpbab40a3c9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travels",
+            "certificate_hash": "50a7d4c1ecb135a8d312473955ccf785da06e341"
+          }
+        },
+        {
+          "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzy2DOX6F5g6TqJ43p63hxHWz1Ub2ePto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991690256719:android:595ff305bde2c2b745d53a",
+        "android_client_info": {
+          "package_name": "com.faizal.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzy2DOX6F5g6TqJ43p63hxHWz1Ub2ePto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991690256719:android:c8e6b112283b932c45d53a",
+        "android_client_info": {
+          "package_name": "com.nilesh.bramhapurimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzy2DOX6F5g6TqJ43p63hxHWz1Ub2ePto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991690256719-cke1rd52nn2cli6694p5e8fkqiqt19f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
